@@ -1,0 +1,2 @@
+# .github
+TSC Minecraft Website
